@@ -2,7 +2,7 @@ public class Carro {
     // Atributos
     private String marca;
     private String modelo;
-    private int ano;
+    
     private String cor;
     private boolean ligado;
 
